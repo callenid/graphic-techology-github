@@ -1,36 +1,91 @@
 <div align="center">
-  <h1>✨ Calandra Alencia Haryani's Portfolio ✨</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Calandra's%20Portfolio&fontSize=50&fontAlignY=35&desc=Modern%20Web%20Design%20%26%20Claymorphism&descAlignY=55&descAlign=50" alt="Header Banner">
+</div>
+
+<div align="center">
+  <a href="https://yourusername.github.io/your-repo-name/">
+    <img src="https://img.shields.io/badge/Live_Demo-View_Website-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
+  </a>
+</div>
+
+<br />
+
+<div align="center">
   <p><i>A passionate creative focusing on modern web design, claymorphism, and dynamic interactive experiences.</i></p>
 </div>
 
 ---
 
 ## 🚀 About This Project
-This repository contains the source code for my personal portfolio website, designed to be hosted on GitHub Pages. It showcases my professional experience, educational background, and recent projects with a strong emphasis on modern web aesthetics, specifically claymorphism and smooth, interactive features.
 
-## 🌟 Key Features
-- **Modern & Creative Design**: Utilizing claymorphism, glassmorphism, and custom CSS styling for a visually stunning and premium UI.
-- **Interactive Elements**: Features a unique draggable lanyard ID, typing text animations, and a dynamic matrix canvas background.
-- **Project Showcase**: A sleek, custom-built slider to elegantly display recent works and case studies.
-- **Responsive Navigation**: Easy-to-use smooth scrolling navigation with active state tracking.
-- **Quick Contact**: Floating WhatsApp integration and a creative, interactive "Let's Work Together" envelope section.
+Welcome to the source code of my personal portfolio website! This project is designed to be hosted on **GitHub Pages** and serves as a digital resume and project showcase. It heavily emphasizes modern web aesthetics, specifically **claymorphism**, **glassmorphism**, and smooth, interactive JavaScript features.
 
-## 🛠️ Built With
-- **HTML5** - For semantic structuring of the content.
-- **CSS3** (Vanilla CSS) - For styling, micro-animations, and claymorphism effects.
-- **Vanilla JavaScript** - For dynamic interactions (draggable elements, smooth sliders, typing effects, canvas rendering).
-- **FontAwesome** - For crisp, scalable vector icons.
-- **Google Fonts** - *Montserrat* & *Nunito* for modern typography.
+### 🌟 Key Features
+
+- 🎨 **Modern UI/UX**: Utilizing claymorphism and custom CSS styling for a visually stunning and premium interface.
+- ✨ **Interactive Elements**: Features a unique draggable lanyard ID, typing text animations, and a dynamic matrix canvas background.
+- 📱 **Responsive Design**: Fully optimized for mobile, tablet, and desktop viewing.
+- 🖼️ **Project Slider**: A sleek, custom-built slider to elegantly display recent works and case studies.
+- 📬 **Quick Contact**: Floating WhatsApp integration and a creative, interactive "Let's Work Together" envelope section.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</div>
+
+- **Semantic HTML5** for structured content.
+- **Vanilla CSS3** for styling, flexbox/grid layouts, micro-animations, and 3D clay effects.
+- **Vanilla JavaScript** for DOM manipulation, smooth scrolling, dragging events, and the matrix background.
+- **[FontAwesome](https://fontawesome.com/)** for scalable vector icons.
+- **[Google Fonts](https://fonts.google.com/)** (*Montserrat* & *Nunito*) for modern, highly readable typography.
+
+---
+
+## 📂 Project Structure
+
+```text
+📁 workshop/
+├── 📄 index.html        # Main HTML structure
+├── 📄 README.md         # Project documentation (You are here!)
+└── 📁 asset/
+    ├── 📁 css/
+    │   └── 📄 style.css # All styling & animations
+    ├── 📁 js/
+    │   └── 📄 script.js # Logic for interactivity & slider
+    └── 📁 image/        # All image assets (characters, lanyards, favicon)
+```
+
+---
+
+## 💻 How to Run Locally
+
+To view this portfolio on your local machine, follow these simple steps:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
+   ```
+2. **Navigate to the directory**
+   ```bash
+   cd your-repo-name
+   ```
+3. **Open `index.html`** in your browser.
+   - Alternatively, you can use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VS Code for hot reloading.
+
+---
 
 ## 👩‍💻 About Me
 
-### 💼 Experience
-- **Dosen IT**
-- **Lead Developer**
-- **Senior Web Developer**
 
+---
 
 ## 📫 Let's Connect!
+
 Have a project in mind, need a developer, or just want to discuss some cool ideas? I'm always open to new opportunities!
 
 <div align="center">
@@ -50,7 +105,7 @@ Have a project in mind, need a developer, or just want to discuss some cool idea
 
 </div>
 
----
+<br />
 <div align="center">
   <sub>Made with ❤️ by Calandra Alencia Haryani</sub>
 </div>
